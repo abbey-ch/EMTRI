@@ -25,7 +25,7 @@ cd EMTRI
 
 Copy ERC20 folder
 
-Edit truffle-config.json set solc version to 0.8.7
+Edit truffle-config.json set solc version to 0.8.15
 
 npm install @openzeppelin/contracts
 
